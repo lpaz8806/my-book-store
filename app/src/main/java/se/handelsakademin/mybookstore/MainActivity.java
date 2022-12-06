@@ -12,8 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void whatever(){
-
+    private void whatever() {
+    }
 
     private void zoo(){
 
